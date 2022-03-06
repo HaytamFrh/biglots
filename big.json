@@ -26,11 +26,11 @@
 	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": true,
-	"Interval_Time":50000, 
+	"Interval_Time":40000, 
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 	"isPage4Activate": false,
     	//content Page 4
 	"textPage4":"choose yes or no",
